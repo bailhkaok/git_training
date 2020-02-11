@@ -4,3 +4,4 @@ Then another one.
 Adding a new line.
 And another one.
 I like new lines !
+I am github adding a new line on you.

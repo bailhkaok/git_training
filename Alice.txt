@@ -8,3 +8,4 @@ I am github adding a new line on you.
 Second try : I am github and adding another line.
 Third try : do the fetch before the pull
 Locally modifiying before pulling remote version.
+Changing the file again on github.

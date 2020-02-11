@@ -5,3 +5,4 @@ Adding a new line.
 And another one.
 I like new lines !
 I am github adding a new line on you.
+Second try : I am github and adding another line.
